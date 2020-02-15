@@ -1,9 +1,9 @@
-# cli-handle-error
+# node-cli-handle-error
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/cli-handle-error?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/cli-handle-error) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![DOWNLOADS](https://img.shields.io/npm/dt/node-cli-handle-error?label=DOWNLOADS%20%20❯&colorA=6A788D&colorB=6A788D&style=flat)](https://www.npmjs.com/package/node-cli-handle-error) [![Learn VSCode](https://img.shields.io/badge/-VSCODE.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://twitter.com/mrahmadawais/)
 
-> Custom error handler for Node.js CLIs.
+> Custom error handler for Node CLIs
 
 <br>
 
@@ -12,7 +12,7 @@
 ## Install
 
 ```sh
-npm install cli-handle-error
+npm install node-cli-handle-error
 ```
 
 <br>
@@ -22,8 +22,46 @@ npm install cli-handle-error
 ## Usage
 
 ```js
-const cliHandleError = require('cli-handle-error');
+const handleError = require('cli-handle-error');
+
+// Let's say we get an error message from a custom command.
+const [err, res] = await somePromise();
+
+// Use the function. It will print the error and exit if there is an error.
+handleError(`Failed while building on step #1`, err);
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### handleError(heading, err, displayError?, exit?)
+
+#### ❯ heading
+
+Type: `string`<br>
+
+Heading of the error message.
+
+#### ❯ err
+
+Type: `error/object`<br>
+
+#### ❯ displayError
+
+Type: `boolean`<br>
+Default: `true` (optional)
+
+Display the error message or not.
+
+#### ❯ exit
+
+Type: `boolean`<br>
+Default: `true` (optional)
+
+Exit the CLI on error or not?
 
 <br>
 

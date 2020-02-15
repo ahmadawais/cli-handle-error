@@ -1,3 +1,4 @@
-const cliHandleError = require('./index.js');
+const handleError = require("./index.js");
 
-cliHandleError();
+const err = new Error([`Something went wrong!`]);
+handleError(`Got an error`, err);
