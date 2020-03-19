@@ -20,5 +20,9 @@
 	],
 	"scripts": {
 		"test": "node test.js"
+	},
+	"dependencies": {
+		"chalk": "^3.0.0",
+		"ora": "^4.0.3"
 	}
 }
