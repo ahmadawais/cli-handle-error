@@ -1,6 +1,6 @@
 {
 	"name": "cli-handle-error",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"description": "Custom error handler for Node.js CLIs.",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-handle-error",
