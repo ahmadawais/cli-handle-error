@@ -29,10 +29,11 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
-### RELEASE: [2.2.0](https://github.com/ahmadawais/cli-handle-error/compare/2.1.0...2.2.0)
+### RELEASE: [2.2.1](https://github.com/ahmadawais/cli-handle-error/compare/2.1.0...2.2.1)
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`5e4c469`](https://github.com/ahmadawais/cli-handle-error/commit/5e4c4694ce78431b41b774036c1e7c722f5acc75) <br>
 > 📖 JS docs [`12dba58`](https://github.com/ahmadawais/cli-handle-error/commit/12dba583cc1f525758e6a74ba940bc83b5f85d67) <br>
 
 <br>
