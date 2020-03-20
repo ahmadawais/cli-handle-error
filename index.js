@@ -16,8 +16,8 @@ module.exports = (heading = `ERROR: `, err, displayError = true, exit = true) =>
 	if (err) {
 		console.log();
 		if (displayError) {
-			console.log(`${sym.fail} ${red(heading)}`);
-			console.log(`${sym.fail} ${red(`ERROR →`)} ${err.name}`);
+			console.log(`${sym.error} ${red(heading)}`);
+			console.log(`${sym.error} ${red(`ERROR →`)} ${err.name}`);
 			console.log(`${sym.info} ${red(`REASON →`)} ${err.message}`);
 			console.log(`${sym.info} ${red(`ERROR STACK ↓ \n`)} ${err.stack}\n`);
 		} else {
