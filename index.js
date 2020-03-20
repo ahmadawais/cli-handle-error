@@ -1,20 +1,13 @@
-/* NODE CLI HANDLE ERROR */
-
 /**
  * Node Cli Handle Error.
  */
-const ora = require("ora");
-const chalk = require("chalk");
+const ora = require('ora');
+const chalk = require('chalk');
 const red = chalk.bold.red;
 const yellow = chalk.bold.yellow;
-const spinner = ora({ text: "" });
+const spinner = ora({ text: '' });
 
-module.exports = (
-	heading = `ERROR: `,
-	err,
-	displayError = true,
-	exit = true
-) => {
+module.exports = (heading = `ERROR: `, err, displayError = true, exit = true) => {
 	if (err) {
 		console.log();
 		if (displayError) {
