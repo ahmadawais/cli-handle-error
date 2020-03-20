@@ -7,6 +7,12 @@ const red = chalk.bold.red;
 const yellow = chalk.bold.yellow;
 const spinner = ora({ text: '' });
 
+/**
+ * @param {String} heading
+ * @param {Error} err
+ * @param {Boolean} displayError
+ * @param {Boolean} exit
+ */
 module.exports = (heading = `ERROR: `, err, displayError = true, exit = true) => {
 	if (err) {
 		console.log();
