@@ -21,7 +21,7 @@ module.exports = (heading = `ERROR: `, err, displayError = true, exit = true) =>
 			console.log(`${sym.info} ${red(`REASON →`)} ${err.message}`);
 			console.log(`${sym.info} ${red(`ERROR STACK ↓ \n`)} ${err.stack}\n`);
 		} else {
-			console.log(`${sym.warn} ${yellow(heading)}`);
+			console.log(`${sym.warning} ${yellow(heading)}`);
 		}
 		if (exit) {
 			process.exit(0);
