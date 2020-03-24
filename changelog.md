@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [4.1.0](https://github.com/ahmadawais/cli-handle-error/compare/4.0.0...4.1.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Warning [`c4c7a7a`](https://github.com/ahmadawais/cli-handle-error/commit/c4c7a7ab8a44fc3fd4428338ff846905b1ced909) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [4.0.0](https://github.com/ahmadawais/cli-handle-error/compare/3.0.0...4.0.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Symbol error [`b5b4ff5`](https://github.com/ahmadawais/cli-handle-error/commit/b5b4ff52a19892c7ff6291a4844fbf4020e6210b) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`c164806`](https://github.com/ahmadawais/cli-handle-error/commit/c1648068a3ed9acea298fd488820406bfa50377b) <br>
 
 <br>
 
