@@ -2,9 +2,7 @@
  * Node Cli Handle Error.
  */
 const sym = require('log-symbols');
-const chalk = require('chalk');
-const red = chalk.bold.red;
-const yellow = chalk.bold.yellow;
+const { red, yellow } = require('chalk');
 
 /**
  * @param {String} heading
