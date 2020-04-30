@@ -2,20 +2,23 @@
 
 All notable changes in this project's [released versions](../../releases) are documented in this file.
 
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+> [**Support my work**][sponsor]: If you or your company use any of my projects or like what I’m doing then consider [backing me][sponsor]. I'm in this for the long run. An open-source developer advocate.
+
+[![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://NodeCLI.com/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
 
-I have released a video course to help you become a better developer — <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User →</a></p>
+I have released a video course to help you build <a href="https://NodeCLI.com/?utm_source=FOSS" target="_blank">Node.js CLIs for Automation</a> →</p>
 
-<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br>VSCode</a> →
+<a href="https://NodeCLI.com/?utm_source=FOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg" /><br>NodeCLI.com</a> →
 
 <br>
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
 
-**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, `🤖 TEST`, and `‼️ BREAKING`.
 
 <small>
 
@@ -29,11 +32,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [4.2.0](https://github.com/ahmadawais/cli-handle-error/compare/4.1.0...4.2.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Colors [`ac19b49`](https://github.com/ahmadawais/cli-handle-error/commit/ac19b49f3a7930afd8500020234eae6a4296add9) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [4.1.0](https://github.com/ahmadawais/cli-handle-error/compare/4.0.0...4.1.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Warning [`c4c7a7a`](https://github.com/ahmadawais/cli-handle-error/commit/c4c7a7ab8a44fc3fd4428338ff846905b1ced909) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`09b0fe7`](https://github.com/ahmadawais/cli-handle-error/commit/09b0fe77f85dae4ede33882288489875ff6d0b29) <br>
 
 <br>
 
@@ -167,11 +186,20 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 
 <br>
 
-Or you can back me by checking out my super fun video course. As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User</a> →</p>
+[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=3D873A)](https://nodecli.com/?utm_source=FOSS)
 
-<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
+Or you can back me by checking out my super fun video course. After building hundreds of developer automation tools used by millions of developers, I am sharing exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps. Automate the grunt work, do more in less time, impress your manager, and help the community.
+→ I'm sharing it all in this online video course. <a href="https://nodecli.com/?utm_source=FOSS" target="_blank">Node CLI Automation
+without wasting a 1,000 hours</a> →</p>
+
+<a href="https://nodecli.com/?utm_source=FOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/nodecli/featured.jpg" /><br><strong>Node CLI</strong></a>
 
 <br>
 
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
-[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+> [**Support my work**][sponsor]: If you or your company use any of my projects or like what I’m doing then consider [backing me][sponsor]. I'm in this for the long run. An open-source developer advocate.
+
+[![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://NodeCLI.com/?utm_source=FOSS)
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
+[![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+[sponsor]: https://github.com/AhmadAwais/sponsor
