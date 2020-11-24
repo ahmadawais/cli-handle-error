@@ -22,7 +22,7 @@ npm install node-cli-handle-error
 ## Usage
 
 ```js
-const handleError = require('cli-handle-error');
+const handleError = require('node-cli-handle-error');
 
 // Let's say we get an error message from a custom command.
 const [err, res] = await somePromise();
