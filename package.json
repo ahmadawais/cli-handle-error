@@ -19,10 +19,11 @@
 		"ahmadawais"
 	],
 	"scripts": {
-		"test": "node test.js"
+		"test": "node review.js"
 	},
 	"dependencies": {
 		"chalk": "^3.0.0",
+		"command-code": "*",
 		"langbase": "*",
 		"log-symbols": "^3.0.0"
 	}
